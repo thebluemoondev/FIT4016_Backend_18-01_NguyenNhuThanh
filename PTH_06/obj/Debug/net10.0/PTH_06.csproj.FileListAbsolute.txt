@@ -1,0 +1,14 @@
+E:\Learn_C#\PTH_06\bin\Debug\net10.0\PTH_06.exe
+E:\Learn_C#\PTH_06\bin\Debug\net10.0\PTH_06.deps.json
+E:\Learn_C#\PTH_06\bin\Debug\net10.0\PTH_06.runtimeconfig.json
+E:\Learn_C#\PTH_06\bin\Debug\net10.0\PTH_06.dll
+E:\Learn_C#\PTH_06\bin\Debug\net10.0\PTH_06.pdb
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.AssemblyInfoInputs.cache
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.AssemblyInfo.cs
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.csproj.CoreCompileInputs.cache
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.dll
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\refint\PTH_06.dll
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.pdb
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\PTH_06.genruntimeconfig.cache
+E:\Learn_C#\PTH_06\obj\Debug\net10.0\ref\PTH_06.dll
